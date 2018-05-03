@@ -1,0 +1,8 @@
+.auto_wrapper {
+  position: fixed;
+  top: 0;
+  background-color: #fff;
+  left: 0;
+  right: 0;
+  height: 100%;
+}
